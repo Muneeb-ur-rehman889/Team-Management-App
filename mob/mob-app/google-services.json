@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "702026210522",
+    "firebase_url": "https://practice-40201-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "practice-40201",
+    "storage_bucket": "practice-40201.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702026210522:android:b224c4fab43f6dababd9e3",
+        "android_client_info": {
+          "package_name": "com.muneebur.mobapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW6KVCVremdZVgiebTX6dRvCXP4UJtBiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
